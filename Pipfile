@@ -11,6 +11,10 @@ requests = "*"
 bs4 = "*"
 flask-cors = "*"
 flask-restful = "*"
+flask-sqlalchemy = "*"
+flask-login = "*"
+python-dotenv = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.6"
