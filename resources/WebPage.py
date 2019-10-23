@@ -6,7 +6,7 @@ from flask_restful import Resource
 from flask import request
 
 # project libraries
-from scrapper import ImagesWeb
+from services.scrapper import ImagesWeb
 
 
 class WebPage(Resource):

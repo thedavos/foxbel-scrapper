@@ -12,9 +12,9 @@ bs4 = "*"
 flask-cors = "*"
 flask-restful = "*"
 flask-sqlalchemy = "*"
-flask-login = "*"
 python-dotenv = "*"
 pymysql = "*"
+flask-bcrypt = "*"
 
 [requires]
 python_version = "3.6"
